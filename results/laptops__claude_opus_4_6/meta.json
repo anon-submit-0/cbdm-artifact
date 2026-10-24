@@ -1,0 +1,44 @@
+{
+ "domain": "laptops",
+ "provider": "claude_opus_4_6",
+ "anchor_sets": [
+  [
+   "laptops::test::B0074703CM_224_ANONYMOUS",
+   "laptops::test::B0074703CM_6_ANONYMOUS",
+   "laptops::train::41",
+   "laptops::train::394",
+   "laptops::train::374",
+   "laptops::train::6",
+   "laptops::train::134",
+   "laptops::train::85",
+   "laptops::train::288",
+   "laptops::train::B00FU83YWS_260_A2YQ3TFBY1MASP"
+  ],
+  [
+   "laptops::train::115",
+   "laptops::train::168",
+   "laptops::train::39",
+   "laptops::train::306",
+   "laptops::test::B00LNFCADQ_5_ALWWKZCL1CKGD",
+   "laptops::train::154",
+   "laptops::train::B00KMRGF28_184_A12IPRD9B0KX9P",
+   "laptops::test::B0074703CM_173_ANONYMOUS",
+   "laptops::test::B00O0W450A_10_ANONYMOUS",
+   "laptops::train::196"
+  ],
+  [
+   "laptops::train::128",
+   "laptops::train::49",
+   "laptops::train::31",
+   "laptops::train::104",
+   "laptops::train::42",
+   "laptops::train::366",
+   "laptops::train::71",
+   "laptops::test::B0074703CM_234_ANONYMOUS",
+   "laptops::test::B0074703CM_282_ANONYMOUS",
+   "laptops::train::B00KMRGF28_374_AS24VWQPFK1HB"
+  ]
+ ],
+ "n_pool": 450,
+ "n_fillers_pool": 420
+}

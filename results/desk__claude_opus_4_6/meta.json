@@ -1,0 +1,44 @@
+{
+ "domain": "desk",
+ "provider": "claude_opus_4_6",
+ "anchor_sets": [
+  [
+   "desk::1d7f7fd9e595ccd1",
+   "desk::1dd5a3b5f3a29901",
+   "desk::b9e539057e26cc6d",
+   "desk::00122583eb72c82a",
+   "desk::c9345d273f90e589",
+   "desk::dc8b039f359c8535",
+   "desk::b860b324e96ac59e",
+   "desk::bce1ad12152d9805",
+   "desk::5a6af29740e3fdf5",
+   "desk::35559bb8c5356468"
+  ],
+  [
+   "desk::59a3f7df9e04329a",
+   "desk::a5e21d653d21be51",
+   "desk::e58dfdd163443f64",
+   "desk::4ec2372af5b6fc24",
+   "desk::1308f37e14c1ed5d",
+   "desk::f17983577895a509",
+   "desk::b290347190216716",
+   "desk::699c9c9f3abd522a",
+   "desk::559b3b46ed73092a",
+   "desk::3f71e97a6f919a71"
+  ],
+  [
+   "desk::189b97b0592805ef",
+   "desk::13bc70cb539ffe17",
+   "desk::e4f1c42a6e3df351",
+   "desk::f5c472edd6b3b602",
+   "desk::8ad63caaacb17e58",
+   "desk::23ab28495f4395b8",
+   "desk::4bbd0e1de660d14f",
+   "desk::13d103dde475fe68",
+   "desk::ac0b0803c612ebcb",
+   "desk::23a6b611b723bbcc"
+  ]
+ ],
+ "n_pool": 789,
+ "n_fillers_pool": 759
+}

@@ -1,0 +1,44 @@
+{
+ "domain": "restaurants",
+ "provider": "claude_opus_4_6",
+ "anchor_sets": [
+  [
+   "restaurants::train::NP#4",
+   "restaurants::train::FF#4",
+   "restaurants::test::en_MiopostoCaffe_478542919",
+   "restaurants::test::en_StackRestaurant__Bar_478538111",
+   "restaurants::train::CLF#4",
+   "restaurants::train::DBG#7",
+   "restaurants::test::en_ParkChaletGardenRestaurant_477778171",
+   "restaurants::test::en_ParkChaletGardenRestaurant_477778210",
+   "restaurants::train::FF#10",
+   "restaurants::train::TFS#10"
+  ],
+  [
+   "restaurants::test::en_SchoonerOrLater_477965848",
+   "restaurants::test::en_SchoonerOrLater_479842021",
+   "restaurants::train::BG#5",
+   "restaurants::train::1398844",
+   "restaurants::train::FF#6",
+   "restaurants::train::490565",
+   "restaurants::test::en_OpenSesame_477970937",
+   "restaurants::train::ADLT#6",
+   "restaurants::train::1660047",
+   "restaurants::train::1275154"
+  ],
+  [
+   "restaurants::train::498657",
+   "restaurants::test::en_BlueRibbonSushi_478219453",
+   "restaurants::train::720620",
+   "restaurants::train::1041457",
+   "restaurants::train::1058221",
+   "restaurants::train::1430994",
+   "restaurants::test::en_MiopostoCaffe_478542922",
+   "restaurants::train::NP#3",
+   "restaurants::train::1280179",
+   "restaurants::train::P#10"
+  ]
+ ],
+ "n_pool": 412,
+ "n_fillers_pool": 382
+}
